@@ -1,0 +1,1 @@
+在aws上安装shadowsocks的脚本
